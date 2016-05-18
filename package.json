@@ -1,7 +1,7 @@
 {
   "name": "electron-react-webpack-minimalist",
   "version": "1.0.0",
-  "description": "A minimal Electron application using React and Webpack",
+  "description": "A minimalist Electron application using React and Webpack",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"

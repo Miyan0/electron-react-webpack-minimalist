@@ -1,4 +1,4 @@
-# electron-react-webpack-minimal
+# electron-react-webpack-minimalist
 
 **Clone and run for a quick way to see an Electron using React and Webpack in action.**
 
@@ -29,9 +29,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone git@github.com:Miyan0/electron-react-webpack-boilerplate.git
+git clone git@github.com:Miyan0/electron-react-webpack-minimalist.git your-app-name
 # Go into the repository
-cd electron-react-webpack-boilerplate
+cd electron-react-webpack-minimalist
 # Install dependencies and run the app
 npm install
 # Run Webpack
